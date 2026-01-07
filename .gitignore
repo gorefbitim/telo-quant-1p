@@ -1,0 +1,9 @@
+local_settings.py
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+data/*.fa
+data/*.fa*
+research/local_settings.py
+*~
+\#*\#
